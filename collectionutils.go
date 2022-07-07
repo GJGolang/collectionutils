@@ -1,5 +1,5 @@
 package collectionutils
 
-func size(arr []string) int {
+func Size(arr []string) int {
 	return len(arr)
 }
